@@ -56,7 +56,7 @@ GlobalShop operates fulfillment centers in:
 
 - **Address**: 114 Tived Ln E, Edison, NJ 08837, USA
 - **Phone**: +1 845-633-1068
-- **Email**: gshop_tiktok@outlook.com
+- **Email**: g-shops@hotmail.com
 - **Website**: https://g-shops.net
 
 ## Online Presence
